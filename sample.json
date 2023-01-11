@@ -1,0 +1,261 @@
+{
+  "userId": "141151511",
+  "name": "Roy Abanilla",
+  "imageUrl": "sample-person.jpg",
+  "data": [
+    {
+      "cutOffId": "008",
+      "income": 20000,
+      "dateCoverage": "Jan 15 2022",
+      "transactions": [
+        {
+          "transId": 1,
+          "expenseId": "rent",
+          "cost": "5000",
+          "date": "Jan 05,2022"
+        },
+        {
+          "transId": 2,
+          "expenseId": "bills",
+          "cost": "2500",
+          "date": "Jan 01,2022"
+        },
+        {
+          "transId": 3,
+          "expenseId": "transpo",
+          "cost": "145",
+          "date": "Jan 10,2022"
+        },
+        {
+          "transId": 4,
+          "expenseId": "shopping",
+          "cost": "1200",
+          "date": "Jan 05,2022"
+        },
+        {
+          "transId": 5,
+          "expenseId": "bills",
+          "cost": "1000",
+          "date": "Jan 12,2022"
+        }
+      ]
+    },
+    {
+      "cutOffId": "006",
+      "income": 20000,
+      "dateCoverage": "Dec 30 2022",
+      "transactions": [
+        {
+          "transId": 3,
+          "expenseId": "shopping",
+          "cost": "3400",
+          "date": "Dec 17,2022"
+        },
+        {
+          "transId": 4,
+          "expenseId": "mobile-load",
+          "cost": "1200",
+          "date": "Dec 29,2022"
+        },
+        {
+          "transId": 1,
+          "expenseId": "bills",
+          "cost": "4700",
+          "date": "Dec 29,2022"
+        },
+        {
+          "transId": 2,
+          "expenseId": "rent",
+          "cost": "3000",
+          "date": "Dec 21,2022"
+        },
+        {
+          "transId": 5,
+          "expenseId": "others",
+          "cost": "100",
+          "date": "Dec 21,2022"
+        }
+      ]
+    },
+    {
+      "cutOffId": "005",
+      "income": 20000,
+      "dateCoverage": "Dec 15 2022",
+      "transactions": [
+        {
+          "transId": 1,
+          "expenseId": "rent",
+          "cost": "5000",
+          "date": "Dec 05,2022"
+        },
+        {
+          "transId": 2,
+          "expenseId": "bills",
+          "cost": "2500",
+          "date": "Dec 2,2022"
+        },
+        {
+          "transId": 3,
+          "expenseId": "transpo",
+          "cost": "145",
+          "date": "Dec 2,2022"
+        },
+        {
+          "transId": 4,
+          "expenseId": "shopping",
+          "cost": "1200",
+          "date": "Dec 14,2022"
+        },
+        {
+          "transId": 5,
+          "expenseId": "bills",
+          "cost": "1000",
+          "date": "Dec 8,2022"
+        }
+      ]
+    },
+
+    {
+      "cutOffId": "001",
+      "income": 20000,
+      "dateCoverage": "Nov 30 2022",
+      "transactions": [
+        {
+          "transId": 3,
+          "expenseId": "shopping",
+          "cost": "3400",
+          "date": "Nov 17,2022"
+        },
+        {
+          "transId": 4,
+          "expenseId": "wifi",
+          "cost": "1200",
+          "date": "Nov 29,2022"
+        },
+        {
+          "transId": 1,
+          "expenseId": "bills",
+          "cost": "4700",
+          "date": "Nov 29,2022"
+        },
+        {
+          "transId": 2,
+          "expenseId": "rent",
+          "cost": "3000",
+          "date": "Nov 21,2022"
+        },
+        {
+          "transId": 5,
+          "expenseId": "others",
+          "cost": "100",
+          "date": "Nov 21,2022"
+        }
+      ]
+    },
+    {
+      "cutOffId": "002",
+      "income": 20000,
+      "dateCoverage": "Nov 15 2022",
+      "transactions": [
+        {
+          "transId": 1,
+          "expenseId": "rent",
+          "cost": "3400",
+          "date": "Nov 05,2022"
+        },
+        {
+          "transId": 2,
+          "expenseId": "transpo",
+          "cost": "200",
+          "date": "Nov 10,2022"
+        },
+        {
+          "transId": 3,
+          "expenseId": "bills",
+          "cost": "3100",
+          "date": "Nov 14,2022"
+        },
+        {
+          "transId": 4,
+          "expenseId": "savings",
+          "cost": "5000",
+          "date": "Nov 10,2022"
+        }
+      ]
+    },
+    {
+      "cutOffId": "003",
+      "income": 20000,
+      "dateCoverage": "Oct 30 2022",
+      "transactions": [
+        {
+          "transId": 1,
+          "expenseId": "savings",
+          "cost": "5000",
+          "date": "Oct 20,2022"
+        },
+        {
+          "transId": 2,
+          "expenseId": "transpo",
+          "cost": "150",
+          "date": "Oct 17,2022"
+        },
+        {
+          "transId": 3,
+          "expenseId": "bills",
+          "cost": "2500",
+          "date": "Oct 25,2022"
+        },
+        {
+          "transId": 4,
+          "expenseId": "food",
+          "cost": "2000",
+          "date": "Oct 29,2022"
+        },
+        {
+          "transId": 5,
+          "expenseId": "wifi",
+          "cost": "1200",
+          "date": "Oct 18,2022"
+        }
+      ]
+    },
+    {
+      "cutOffId": "004",
+      "income": 20000,
+      "dateCoverage": "Oct 15 2022",
+      "transactions": [
+        {
+          "transId": 1,
+          "expenseId": "rent",
+          "cost": "5000",
+          "date": "Oct 05,2022"
+        },
+        {
+          "transId": 2,
+          "expenseId": "bills",
+          "cost": "2500",
+          "date": "Oct 01,2022"
+        },
+        {
+          "transId": 3,
+          "expenseId": "transpo",
+          "cost": "145",
+          "date": "Oct 10,2022"
+        },
+        {
+          "transId": 4,
+          "expenseId": "shopping",
+          "cost": "1200",
+          "date": "Oct 05,2022"
+        },
+        {
+          "transId": 5,
+          "expenseId": "bills",
+          "cost": "1000",
+          "date": "Oct 12,2022"
+        }
+      ]
+    }
+  ]
+}
