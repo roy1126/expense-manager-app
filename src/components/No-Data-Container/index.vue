@@ -170,6 +170,7 @@ export default {
       this.cutOffs[index].isSelected = !this.cutOffs[index].isSelected;
     },
     isDateDisabled(date) {
+      if (new Date().getMonth() === 0) return false;
       const month = this.monthStringToNumber(date.split(" ")[0].toLowerCase());
       const day = date.split(" ")[1];
       const year = new Date().getFullYear();
